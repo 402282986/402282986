@@ -65,13 +65,12 @@
 }
 
 .btn {
-    border: none;
+   border: none;
     width: 80px;
     height: 40px;
     color: #fff;
-    border-radius: 5px;
-    background: #999;
-    margin-top: 40px;
+    border-radius: 10px;
+    background: #FFD204;
 }
 
 .btn:hover {
@@ -79,7 +78,7 @@
 }
 
 .back {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .home_href {
@@ -87,7 +86,7 @@
     width: 80px;
     height: 40px;
     color: #fff;
-    border-radius: 5px;
+    border-radius: 10px;
     background: #FFD204;
 }
 
